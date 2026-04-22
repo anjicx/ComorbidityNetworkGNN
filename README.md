@@ -1,6 +1,6 @@
 # ComorbidityNetworkGNN
 
-The comorbidity networks are complex because of the non-linear and high-order relations between diseases, thus making them suitable for neural networks. The goal of this analysis is to predict the structure and changes of structure in age-group comorbidity networks, answering to research question of how can missing link inside age group be predicted. 
+The comorbidity networks are complex because of the non-linear and high-order relations between diseases, thus making them suitable for neural networks. The goal of this analysis is to predict the structure and changes of structure in age-group comorbidity networks. 
 
 Data: Comorbidity network adjacency matrices of male population for 8 age groups pooled over period, created from administrative healthcare data for period of 2003-2014.
 
