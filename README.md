@@ -8,9 +8,10 @@ Available on: figshare.com/articles/dataset/Comorbidity_Networks_From_Population
 
 
 FOR STRUCTURE OF GRAPHS:
+GRAPHS.PROPERTIES.ipynb
 
 FOR STATICLGNN:
-
+GAT.ipynb
 
 FOR TEMPORALGNN:
 1. TemporalGNN.ipynb-predicting G8 on G1..G6 sampledtraining with 5different seeds,and on G7 validate
